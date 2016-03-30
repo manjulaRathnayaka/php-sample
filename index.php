@@ -1,5 +1,5 @@
 <?php
-    echo "Hello World";
+    echo "Hello World Sample";
     echo "-------------------" 
     echo '<a href="info.php">PHP Info</a>.';
 ?>
